@@ -52,16 +52,33 @@ namespace CalculadoraGrafica
         {
             List<double> lstNums = new List<double>();
             double total = 0.00;
+            int index = 0;
 
             switch (previousOperation)
             {
                 case Operation.Div:
+
+                    total = 0.00;
+                    index = 0;
+
                     try
                     {
                         lstNums = txtDisplay.Text.Split('/').Select(double.Parse).ToList();
                         lstNums.ForEach(delegate (double value)
                         {
-                            total /= value;
+                            if (index == 0)
+                            {
+
+                                total = value;
+
+                            } else {
+
+                                total /= value;
+
+                            }
+
+                            index += 1;
+
                         });
 
                         txtDisplay.Text = total.ToString();
@@ -73,6 +90,8 @@ namespace CalculadoraGrafica
                     break;
                 case Operation.Mul:
 
+                    total = 0.00;
+
                     lstNums = txtDisplay.Text.Split('*').Select(double.Parse).ToList();
                     lstNums.ForEach(delegate (double value)
                     {
@@ -83,7 +102,9 @@ namespace CalculadoraGrafica
 
                     break;
                 case Operation.Sub:
-                    
+
+                    total = 0.00;
+
                     lstNums = txtDisplay.Text.Split('-').Select(double.Parse).ToList();
                     lstNums.ForEach(delegate (double value)
                     {
@@ -94,6 +115,8 @@ namespace CalculadoraGrafica
 
                     break;
                 case Operation.Add:
+
+                    total = 0.00;
 
                     lstNums = txtDisplay.Text.Split('+').Select(double.Parse).ToList();
                     lstNums.ForEach(delegate (double value)
