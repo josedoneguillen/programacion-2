@@ -91,11 +91,25 @@ namespace CalculadoraGrafica
                 case Operation.Mul:
 
                     total = 0.00;
+                    index = 0;
 
                     lstNums = txtDisplay.Text.Split('*').Select(double.Parse).ToList();
                     lstNums.ForEach(delegate (double value)
                     {
-                        total *= value;
+                        if (index == 0)
+                        {
+
+                            total = value;
+
+                        }
+                        else
+                        {
+
+                            total *= value;
+
+                        }
+
+                        index += 1;
                     });
 
                     txtDisplay.Text = total.ToString();
@@ -104,11 +118,25 @@ namespace CalculadoraGrafica
                 case Operation.Sub:
 
                     total = 0.00;
+                    index = 0;
 
                     lstNums = txtDisplay.Text.Split('-').Select(double.Parse).ToList();
                     lstNums.ForEach(delegate (double value)
                     {
-                        total -= value;
+                        if (index == 0)
+                        {
+
+                            total = value;
+
+                        }
+                        else
+                        {
+
+                            total -= value;
+
+                        }
+
+                        index += 1;
                     });
 
                     txtDisplay.Text = total.ToString();
