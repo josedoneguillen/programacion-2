@@ -1,0 +1,10 @@
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\CalculadoraGraficaModificada\CalculadoraGraficaModificada\bin\Debug\CalculadoraGraficaModificada.exe.config
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\CalculadoraGraficaModificada\CalculadoraGraficaModificada\bin\Debug\CalculadoraGraficaModificada.exe
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\CalculadoraGraficaModificada\CalculadoraGraficaModificada\bin\Debug\CalculadoraGraficaModificada.pdb
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\CalculadoraGraficaModificada\CalculadoraGraficaModificada\obj\Debug\CalculadoraGraficaModificada.csprojAssemblyReference.cache
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\CalculadoraGraficaModificada\CalculadoraGraficaModificada\obj\Debug\CalculadoraGraficaModificada.Form1.resources
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\CalculadoraGraficaModificada\CalculadoraGraficaModificada\obj\Debug\CalculadoraGraficaModificada.Properties.Resources.resources
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\CalculadoraGraficaModificada\CalculadoraGraficaModificada\obj\Debug\CalculadoraGraficaModificada.csproj.GenerateResource.cache
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\CalculadoraGraficaModificada\CalculadoraGraficaModificada\obj\Debug\CalculadoraGraficaModificada.csproj.CoreCompileInputs.cache
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\CalculadoraGraficaModificada\CalculadoraGraficaModificada\obj\Debug\CalculadoraGraficaModificada.exe
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\CalculadoraGraficaModificada\CalculadoraGraficaModificada\obj\Debug\CalculadoraGraficaModificada.pdb
