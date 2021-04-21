@@ -1,0 +1,10 @@
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\TrabajandoConMdi\TrabajandoConMdi\bin\Debug\TrabajandoConMdi.exe.config
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\TrabajandoConMdi\TrabajandoConMdi\bin\Debug\TrabajandoConMdi.exe
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\TrabajandoConMdi\TrabajandoConMdi\bin\Debug\TrabajandoConMdi.pdb
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\TrabajandoConMdi\TrabajandoConMdi\obj\Debug\TrabajandoConMdi.csprojAssemblyReference.cache
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\TrabajandoConMdi\TrabajandoConMdi\obj\Debug\TrabajandoConMdi.Form1.resources
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\TrabajandoConMdi\TrabajandoConMdi\obj\Debug\TrabajandoConMdi.Properties.Resources.resources
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\TrabajandoConMdi\TrabajandoConMdi\obj\Debug\TrabajandoConMdi.csproj.GenerateResource.cache
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\TrabajandoConMdi\TrabajandoConMdi\obj\Debug\TrabajandoConMdi.csproj.CoreCompileInputs.cache
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\TrabajandoConMdi\TrabajandoConMdi\obj\Debug\TrabajandoConMdi.exe
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\TrabajandoConMdi\TrabajandoConMdi\obj\Debug\TrabajandoConMdi.pdb
