@@ -1,0 +1,10 @@
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\ListTreeCalendarTime\ListTreeCalendarTime\bin\Debug\ListTreeCalendarTime.exe.config
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\ListTreeCalendarTime\ListTreeCalendarTime\bin\Debug\ListTreeCalendarTime.exe
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\ListTreeCalendarTime\ListTreeCalendarTime\bin\Debug\ListTreeCalendarTime.pdb
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\ListTreeCalendarTime\ListTreeCalendarTime\obj\Debug\ListTreeCalendarTime.csprojAssemblyReference.cache
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\ListTreeCalendarTime\ListTreeCalendarTime\obj\Debug\ListTreeCalendarTime.Form1.resources
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\ListTreeCalendarTime\ListTreeCalendarTime\obj\Debug\ListTreeCalendarTime.Properties.Resources.resources
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\ListTreeCalendarTime\ListTreeCalendarTime\obj\Debug\ListTreeCalendarTime.csproj.GenerateResource.cache
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\ListTreeCalendarTime\ListTreeCalendarTime\obj\Debug\ListTreeCalendarTime.csproj.CoreCompileInputs.cache
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\ListTreeCalendarTime\ListTreeCalendarTime\obj\Debug\ListTreeCalendarTime.exe
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\ListTreeCalendarTime\ListTreeCalendarTime\obj\Debug\ListTreeCalendarTime.pdb
