@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "creacionDeLaBaseDeDatos", "creacionDeLaBaseDeDatos\creacionDeLaBaseDeDatos.csproj", "{431822F2-4B19-4CF4-BE7A-90203D7E485C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{431822F2-4B19-4CF4-BE7A-90203D7E485C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{431822F2-4B19-4CF4-BE7A-90203D7E485C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{431822F2-4B19-4CF4-BE7A-90203D7E485C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{431822F2-4B19-4CF4-BE7A-90203D7E485C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {967800EB-907F-4A94-8120-1D80D31C7529}
+	EndGlobalSection
+EndGlobal
