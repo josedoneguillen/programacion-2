@@ -1,0 +1,10 @@
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\linkQ\linkQ\bin\Debug\linkQ.exe.config
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\linkQ\linkQ\bin\Debug\linkQ.exe
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\linkQ\linkQ\bin\Debug\linkQ.pdb
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\linkQ\linkQ\obj\Debug\linkQ.csprojAssemblyReference.cache
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\linkQ\linkQ\obj\Debug\linkQ.Form1.resources
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\linkQ\linkQ\obj\Debug\linkQ.Properties.Resources.resources
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\linkQ\linkQ\obj\Debug\linkQ.csproj.GenerateResource.cache
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\linkQ\linkQ\obj\Debug\linkQ.csproj.CoreCompileInputs.cache
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\linkQ\linkQ\obj\Debug\linkQ.exe
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\linkQ\linkQ\obj\Debug\linkQ.pdb
