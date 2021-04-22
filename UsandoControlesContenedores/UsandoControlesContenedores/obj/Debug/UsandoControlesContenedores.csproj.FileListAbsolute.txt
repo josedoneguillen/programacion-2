@@ -1,0 +1,10 @@
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\UsandoControlesContenedores\UsandoControlesContenedores\bin\Debug\UsandoControlesContenedores.exe.config
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\UsandoControlesContenedores\UsandoControlesContenedores\bin\Debug\UsandoControlesContenedores.exe
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\UsandoControlesContenedores\UsandoControlesContenedores\bin\Debug\UsandoControlesContenedores.pdb
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\UsandoControlesContenedores\UsandoControlesContenedores\obj\Debug\UsandoControlesContenedores.csprojAssemblyReference.cache
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\UsandoControlesContenedores\UsandoControlesContenedores\obj\Debug\UsandoControlesContenedores.Form1.resources
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\UsandoControlesContenedores\UsandoControlesContenedores\obj\Debug\UsandoControlesContenedores.Properties.Resources.resources
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\UsandoControlesContenedores\UsandoControlesContenedores\obj\Debug\UsandoControlesContenedores.csproj.GenerateResource.cache
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\UsandoControlesContenedores\UsandoControlesContenedores\obj\Debug\UsandoControlesContenedores.csproj.CoreCompileInputs.cache
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\UsandoControlesContenedores\UsandoControlesContenedores\obj\Debug\UsandoControlesContenedores.exe
+C:\Users\JDONE\source\repos\UNICARIBE\PROGRAMACION_2\UsandoControlesContenedores\UsandoControlesContenedores\obj\Debug\UsandoControlesContenedores.pdb
