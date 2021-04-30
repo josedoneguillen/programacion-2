@@ -1,0 +1,10 @@
+C:\Users\JDONE_LAPTOP\source\repos\UNICARIBE\programacion-2\servicioWeb\servicioWeb\bin\Debug\servicioWeb.exe.config
+C:\Users\JDONE_LAPTOP\source\repos\UNICARIBE\programacion-2\servicioWeb\servicioWeb\bin\Debug\servicioWeb.exe
+C:\Users\JDONE_LAPTOP\source\repos\UNICARIBE\programacion-2\servicioWeb\servicioWeb\bin\Debug\servicioWeb.pdb
+C:\Users\JDONE_LAPTOP\source\repos\UNICARIBE\programacion-2\servicioWeb\servicioWeb\obj\Debug\servicioWeb.csprojAssemblyReference.cache
+C:\Users\JDONE_LAPTOP\source\repos\UNICARIBE\programacion-2\servicioWeb\servicioWeb\obj\Debug\servicioWeb.Form1.resources
+C:\Users\JDONE_LAPTOP\source\repos\UNICARIBE\programacion-2\servicioWeb\servicioWeb\obj\Debug\servicioWeb.Properties.Resources.resources
+C:\Users\JDONE_LAPTOP\source\repos\UNICARIBE\programacion-2\servicioWeb\servicioWeb\obj\Debug\servicioWeb.csproj.GenerateResource.cache
+C:\Users\JDONE_LAPTOP\source\repos\UNICARIBE\programacion-2\servicioWeb\servicioWeb\obj\Debug\servicioWeb.csproj.CoreCompileInputs.cache
+C:\Users\JDONE_LAPTOP\source\repos\UNICARIBE\programacion-2\servicioWeb\servicioWeb\obj\Debug\servicioWeb.exe
+C:\Users\JDONE_LAPTOP\source\repos\UNICARIBE\programacion-2\servicioWeb\servicioWeb\obj\Debug\servicioWeb.pdb
